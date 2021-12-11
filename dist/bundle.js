@@ -1,0 +1,2 @@
+(()=>{var r,o={500:(r,o,e)=>{const t=e(46);r.exports=r=>t?.[r]},46:r=>{"use strict";r.exports=JSON.parse('["Hello world!","Hello world again!"]')}},e={};r=function r(t){var s=e[t];if(void 0!==s)return s.exports;var l=e[t]={exports:{}};return o[t](l,l.exports,r),l.exports}(500),console.log(r(0),r(1))})();
+//# sourceMappingURL=bundle.js.map

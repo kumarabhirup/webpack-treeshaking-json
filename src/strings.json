@@ -1,0 +1,5 @@
+{
+  "usedString1": "Hello world!",
+  "usedString2": "Hello world again!",
+  "unusedString": "I'm never used in the code ever"
+}

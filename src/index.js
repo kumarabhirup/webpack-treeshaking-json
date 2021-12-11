@@ -1,0 +1,1 @@
+console.log($t("usedString1"), $t("usedString2"));

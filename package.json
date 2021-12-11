@@ -1,0 +1,21 @@
+{
+  "name": "webpack-treeshaking-json",
+  "version": "1.0.0",
+  "description": "Example of working webpack-json-access-optimizer plugin instance",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "build:watch": "webpack -w",
+    "build": "webpack",
+    "start": "node dist/bundle.js"
+  },
+  "author": "kumareth <0xkumareth@gmail.com>",
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-json-access-optimizer": "^1.1.0"
+  },
+  "dependencies": {
+    "webpack-dev-server": "^2.4.5"
+  }
+}
